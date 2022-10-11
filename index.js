@@ -1,4 +1,4 @@
-const { parse, toString, toArray} = require('@estilles/expression-parser');
+const { parse, toString, toArray } = require('@estilles/expression-parser');
 const process = require('process');
 
 let args = process.argv.slice(2);
